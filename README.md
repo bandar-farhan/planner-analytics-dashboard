@@ -48,8 +48,6 @@ Microsoft Planner Premium → Native Dataverse Tables → Power BI
 - Built data relationships and analytical calculations for project reporting.
 - Designed interactive dashboards with KPI cards, charts, slicers, and task-level tables.
 
-## Project Screenshots
-
 ## Dashboard Preview
 
 ### Basic Planner Dashboard
@@ -66,8 +64,6 @@ Microsoft Planner Premium → Native Dataverse Tables → Power BI
 
 ### Data Storage
 ![Dataverse Table](screenshots/dataverse-table.png)
-
-Dashboard screenshots will be added here.
 
 ## Notes
 
