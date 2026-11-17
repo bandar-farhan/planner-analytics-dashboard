@@ -50,6 +50,23 @@ Microsoft Planner Premium → Native Dataverse Tables → Power BI
 
 ## Project Screenshots
 
+## Dashboard Preview
+
+### Basic Planner Dashboard
+![Basic Planner Dashboard](screenshots/basic-dashboard.png)
+
+### Premium Planner Dashboard
+![Premium Planner Dashboard](screenshots/premium-dashboard.png)
+
+### Project Details
+![Project Details](screenshots/project-details.png)
+
+### Automation Workflow
+![Power Automate Workflow](screenshots/automation-flow.png)
+
+### Data Storage
+![Dataverse Table](screenshots/dataverse-table.png)
+
 Dashboard screenshots will be added here.
 
 ## Notes
